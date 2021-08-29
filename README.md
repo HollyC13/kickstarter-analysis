@@ -22,7 +22,7 @@ by play campaigns with goals of $1,000 to less than $5,000, with 73% reaching su
 launched with	goals of $20,000 or more than with lower goals...this group accounts for only 58 of the 985 total campaigns launched. 
 Only 38% of play campaigns with goals of $20,000 or more were successful.
 
-Please see the [Outcomes Based on Goals] 
+![Theater Outcomes vs Launch](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Challenges and Difficulties Encountered
 As a regular user of Excel, it was challenging for me to stop thinking as a "user" and more as a "coder".  I could have manipulated
