@@ -14,7 +14,7 @@ numbers of succesful theater campaigns with 67%, 63%, and 65% of these campaigns
 total theater campaigns launched and the highest percentage of failed theater campaigns by month, with 47% of theater campaigns launched
 in December failing.
 
-Please see the [Outcomes Based on Launch Date] (https://github.com/HollyC13/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) chart. 
+![Theater Outcomes vs Launch](/Resources/Theater_Outcomes_vs_Launch.png) 
 
 ### Analysis of Outcomes Based on Goals
 The data shows play campaigns with goals of less than $1,000 are most likely to succeed, with 76% reaching successful outcomes, followed
@@ -22,7 +22,7 @@ by play campaigns with goals of $1,000 to less than $5,000, with 73% reaching su
 launched with	goals of $20,000 or more than with lower goals...this group accounts for only 58 of the 985 total campaigns launched. 
 Only 38% of play campaigns with goals of $20,000 or more were successful.
 
-![Theater Outcomes vs Launch](/Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes vs Goals](/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 As a regular user of Excel, it was challenging for me to stop thinking as a "user" and more as a "coder".  I could have manipulated
